@@ -17,6 +17,7 @@ public class JavaDemo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Welcome");
+        System.out.println("This is java git demo project");
     }
     
 }
