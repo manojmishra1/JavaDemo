@@ -18,6 +18,8 @@ public class JavaDemo {
         // TODO code application logic here
         System.out.println("Hello Welcome");
         System.out.println("This is java git demo project");
+        int a=9,b=5,c=a+b;
+        System.out.println("Sum is\t"+c);
     }
     
 }
